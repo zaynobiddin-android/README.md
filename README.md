@@ -127,7 +127,7 @@ Writing clean, maintainable, and well-documented code.
 
 **Open for freelance projects, collaborations, and full-time opportunities!**
 
-[![Email](https://img.shields.io/badge/📧_Email-your.email@example.com-D14836?style=for-the-badge)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/📧_Email-zaynobiddinkamoliddinov4@gmail.com-D14836?style=for-the-badge)](mailto:your.email@example.com)
 
 *Always excited to discuss Java, back-end systems, or innovative tech projects!*
 

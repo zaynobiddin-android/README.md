@@ -1,4 +1,3 @@
-ZKB, [12/17/2025 1:12 PM]
 <div align="center">
 
 <!-- 3D Animated Header -->
@@ -13,7 +12,7 @@ ZKB, [12/17/2025 1:12 PM]
 
 <div align="center">
 
-### 🎯 Engineering High-Performance Back-ends
+### 🎯 **Engineering High-Performance Back-ends**
 
 *Crafting robust server-side applications and APIs with Java and clean architecture.*
 
@@ -25,19 +24,19 @@ ZKB, [12/17/2025 1:12 PM]
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 
 <div align="center">
 
 <table>
 <tr><td>
 
-👨‍💻 Role: Back-end Developer  
-🎯 Focus: Java, Spring Boot, RESTful APIs, Database Optimization  
-📚 Currently Learning: Advanced Microservices Architecture, Cloud Computing (AWS), Kubernetes  
-⚙️ Experience: 3+ years  
-🔥 Passion: Building scalable, maintainable back-end systems and services.  
-🤝 Open To: Collaborations, Open Source, Innovative Back-end Projects  
+👨‍💻 **Role:** Back-end Developer  
+🎯 **Focus:** Java, Spring Boot, RESTful APIs, Database Optimization  
+📚 **Currently Learning:** Advanced Microservices Architecture, Cloud Computing (AWS), Kubernetes  
+⚙️ **Experience:** 3+ years  
+🔥 **Passion:** Building scalable, maintainable back-end systems and services.  
+🤝 **Open To:** Collaborations, Open Source, Innovative Back-end Projects  
 
 </td></tr>
 </table>
@@ -46,21 +45,21 @@ ZKB, [12/17/2025 1:12 PM]
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 **Tech Arsenal**
 
 <div align="center">
 
-### Core Technologies
+### **Core Technologies**
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&theme=dark" alt="Core Tech" />
 </p>
 
-### Databases
+### **Databases**
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases" />
 </p>
 
-### Tools & Platforms
+### **Tools & Platforms**
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,linux&theme=dark" alt="Tools" />
 </p>
@@ -69,49 +68,39 @@ ZKB, [12/17/2025 1:12 PM]
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 **GitHub Analytics**
 
 <div align="center">
-
-<!-- GitHub Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats"/>
-
-<!-- Fixed GitHub Streak Stats -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaynobiddin-android&theme=react&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaynobiddin-android&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-
-<!-- Most Used Languages -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&theme=react&hide_border=true&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" alt="Top Languages"/>
-
-<!-- Contribution Graph -->
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-android&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-android&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🎨 Highlights of My Work
+## 🎨 **Highlights of My Work**
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### ⚡️ Performance
+### ⚡ **Performance**
 Delivering optimized, high-performance server-side applications.
 
 </td>
 <td align="center" width="33%">
 
-### 🎯 Scalability
+### 🎯 **Scalability**
 Building back-end solutions to handle growing demands.
 
 </td>
 <td align="center" width="33%">
 
-### 🔧 Best Practices
+### 🔧 **Best Practices**
 Writing clean, maintainable, and well-documented code.
 
 </td>
@@ -120,7 +109,7 @@ Writing clean, maintainable, and well-documented code.
 
 ---
 
-## 🌟 Current Focus
+## 🌟 **Current Focus**
 
 <div align="center">
 
@@ -133,13 +122,12 @@ Writing clean, maintainable, and well-documented code.
 
 ---
 
-## 📫 Let's Build Together
+## 📫 **Let's Build Together**
 
 <div align="center">
 
-Open for freelance projects, collaborations, and full-time opportunities!
+**Open for freelance projects, collaborations, and full-time opportunities!**
 
-ZKB, [12/17/2025 1:12 PM]
 [![Email](https://img.shields.io/badge/📧_Email-your.email@example.com-D14836?style=for-the-badge)](mailto:your.email@example.com)
 
 *Always excited to discuss Java, back-end systems, or innovative tech projects!*

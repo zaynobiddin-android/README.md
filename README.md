@@ -42,22 +42,20 @@
 
 <div align="center">
 
-### Core
-<p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,android,xml&theme=dark" alt="Core Tech" />
-</p>
+
+<div align="center">
 
 ### Android & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=jetpack,room,retrofit,coroutines,hilt&theme=dark" alt="Android Libraries" />
-</p>
-
-### Tools & CI
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,git,github,gradle,firebase&theme=dark" alt="Tools" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" width="40" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/retrofit/retrofit.png" width="40" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/dagger/dagger.png" width="40" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/room/room.png" width="40" />
 </p>
 
 </div>
+
+
 
 ---
 

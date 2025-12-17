@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zaynobiddin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header: Zaynobiddin"/>
 
 <!-- Rotating Badge -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Back-end+Engineer+%7C+Java+Specialist;Optimizing+Server-side+Architecture+and+APIs;3%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Back-end+Engineer+%7C+Java+Specialist;Optimizing+Server-side+Architecture+and+APIs;1%2B+Years+of+Professional+Experience" alt="Typing SVG" />
 
 </div>
 

@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zaynobiddin%20Khaydarov%20—%20Java%20Back-end%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zaynobiddin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header: Zaynobiddin"/>
 
 <!-- Rotating Badge -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Java+Back-end+Developer+%7C+Crafting+Efficient+APIs;Specialized+in+Spring+and+Microservices;Optimizing+Scalable+Solutions+for+Businesses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Back-end+Engineer+%7C+Java+Specialist;Optimizing+Server-side+Architecture+and+APIs;3%2B+Years+of+Professional+Experience" alt="Typing SVG" />
 
 </div>
 
@@ -12,14 +12,13 @@
 
 <div align="center">
 
-### 🎯 **Delivering Robust Back-end Solutions**
+### 🎯 **Engineering High-Performance Back-ends**
 
-*Specialized in building scalable, secure back-end systems with Java*
+*Crafting robust server-side applications and APIs with Java and clean architecture.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaynobiddin-android)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/zaynobiddin-android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaynobiddin)
 
 </div>
 
@@ -33,11 +32,11 @@
 <tr><td>
 
 👨‍💻 **Role:** Back-end Developer  
-🎯 **Focus:** Java, Spring Framework, RESTful APIs, Microservices  
-📚 **Currently Learning:** Advanced Kubernetes, Distributed Systems  
-⚙️ **Experience:** 4+ years building enterprise-level back-end systems  
-🔥 **Passion:** Optimizing performance and simplifying complex business logic  
-🤝 **Open To:** Collaboration, Open Source, Innovative Projects  
+🎯 **Focus:** Java, Spring Boot, RESTful APIs, Database Optimization  
+📚 **Currently Learning:** Advanced Microservices Architecture, Cloud Computing (AWS), Kubernetes  
+⚙️ **Experience:** 3+ years  
+🔥 **Passion:** Building scalable, maintainable back-end systems and services.  
+🤝 **Open To:** Collaborations, Open Source, Innovative Back-end Projects  
 
 </td></tr>
 </table>
@@ -52,17 +51,17 @@
 
 ### **Core Technologies**
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql&theme=dark" alt="Core Technologies" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&theme=dark" alt="Core Tech" />
+</p>
+
+### **Databases**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,intellij,redis,junit&theme=dark" alt="Tools & Platforms" />
-</p>
-
-### **Microservices & DevOps**
-<p>
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,jenkins,nginx,aws&theme=dark" alt="Microservices & DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,linux&theme=dark" alt="Tools" />
 </p>
 
 </div>
@@ -72,37 +71,37 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaynobiddin-android&theme=react&hide_border=true&background=0D1117&stroke=A9FEF7&ring=A9FEF7&fire=FE6B6B" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaynobiddin-android&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-android&theme=react-dark&hide_border=true&color=A9FEF7&line=A9FEF7&point=C9D1D9" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-android&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🎨 **What I Bring to the Table**
+## 🎨 **Highlights of My Work**
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### ⚡ **Scalability**
-Designing architectures that handle millions of transactions efficiently
+### ⚡ **Performance**
+Delivering optimized, high-performance server-side applications.
 
 </td>
 <td align="center" width="33%">
 
-### 🔒 **Security**
-Implementing secure, reliable, and maintainable REST APIs
+### 🎯 **Scalability**
+Building back-end solutions to handle growing demands.
 
 </td>
 <td align="center" width="33%">
 
-### 📊 **Performance**
-Optimizing back-end systems for maximum throughput and minimum latency
+### 🔧 **Best Practices**
+Writing clean, maintainable, and well-documented code.
 
 </td>
 </tr>
@@ -114,16 +113,16 @@ Optimizing back-end systems for maximum throughput and minimum latency
 
 <div align="center">
 
-✅ Mastering distributed back-end technologies (Kafka, RabbitMQ)  
-✅ Implementing scalable microservices with Spring Cloud  
-✅ Collaborating on open-source back-end projects  
-✅ Exploring security practices for APIs and database interactions  
+✅ Mastering microservices architecture in Java  
+✅ Optimizing database interactions for large-scale applications  
+✅ Experimenting with cloud deployments (AWS/Kubernetes)  
+✅ Writing clean, testable code with CI/CD pipelines  
 
 </div>
 
 ---
 
-## 📫 **Let's Collaborate**
+## 📫 **Let's Build Together**
 
 <div align="center">
 
@@ -131,11 +130,11 @@ Optimizing back-end systems for maximum throughput and minimum latency
 
 [![Email](https://img.shields.io/badge/📧_Email-your.email@example.com-D14836?style=for-the-badge)](mailto:your.email@example.com)
 
-*Excited to simplify complex processes and deliver enterprise-grade applications!*  
+*Always excited to discuss Java, back-end systems, or innovative tech projects!*
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=zaynobiddin-android&color=A9FEF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=zaynobiddin-android&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
